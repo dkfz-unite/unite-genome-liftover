@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "Unite.Genome.Liftover.Web": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "api",
+      "applicationUrl": "http://localhost:5204",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "UNITE_CHAINS_DIRECTORY_PATH": "./chains"
+      }
+    }
+  }
+}
